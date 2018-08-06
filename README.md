@@ -25,6 +25,6 @@ Se define el error relativo como
 
 Abajo se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas números. Esto ocurre debido a la perdida de significancia en la operacion suma usada internamente por el algoritmo de `sp.mean`. 
 
-![Results](loss-of--significance.png)
+![Results](loss-of-significance.png)
 
 
