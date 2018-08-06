@@ -1,4 +1,3 @@
-# Proyecto-0---Perdida-de-Significancia-CE
 # MCOC-Proyecto-0
 
 
