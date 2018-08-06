@@ -12,7 +12,7 @@ Ejemplo
 ==============
 
 
-Aquí a modo de ejemplo ocupamos la funcion f(x)=(1-cos x)/x**2   
+Aquí a modo de ejemplo ocupamos la funcion f(x)=(1-cos x)/x**2 y la graficamos entre (-4*10**-8,4*10**-8), de esta manera vemos el error que se produce en el grafico   
 
 
 
